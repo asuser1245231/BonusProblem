@@ -1,0 +1,10 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Document</title>
+</head>
+<body style="margin:0;">
+    <embed src="document.pdf" type="application/pdf" width="100%" height="100%">
+</body>
+</html>
